@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/opsguru/terraform-module-aws-vpc.svg?style=svg)](https://circleci.com/gh/opsguru/terraform-module-aws-vpc)
+[![CircleCI](https://circleci.com/gh/opsguru/terraform-module-aws-vpc/tree/master.svg?style=svg)](https://circleci.com/gh/opsguru/terraform-module-aws-vpc/tree/master)
