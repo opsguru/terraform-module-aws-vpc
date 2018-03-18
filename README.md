@@ -1,2 +1,1 @@
-# terraform-module-aws-vpc
-Terraform module for AWS VPC
+[![CircleCI](https://circleci.com/gh/opsguru/terraform-module-aws-vpc.svg?style=svg)](https://circleci.com/gh/opsguru/terraform-module-aws-vpc)
